@@ -4,7 +4,7 @@
 -Edad: 22
 -Rol: Frontend Dev
 -Twitter: @fessit0
--LinkedIn: https://www.linkedin.com/in/fernando-zeitler-0a8995212/
+-LinkedIn: https://www.linkedin.com/in/fernando-zeitler/
  ```
 <h3>
  🕹 Stack usado 🕹
